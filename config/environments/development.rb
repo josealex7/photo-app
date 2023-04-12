@@ -11,6 +11,10 @@ Rails.application.configure do
   # Do not eager load code on boot.
   config.eager_load = false
 
+  #config.action_mailer.raise_delivery_errors = false
+  #config.action_mailer.delivery_method = :test
+  #config.action_mailer.default_url_options = { :host => 'https://rubyrspec-tddror5railsudemytest2.c9users.io', :protocol => 'https }
+
   # Show full error reports.
   config.consider_all_requests_local = true
 
