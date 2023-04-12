@@ -1,5 +1,5 @@
 # README
-## payment-app
+## payment-app Transacción, envio de correos y cargue de imagenes
 
 Este es el repositorio de mi página web construida con Ruby on Rails. La página cuenta con las siguientes características:
 
